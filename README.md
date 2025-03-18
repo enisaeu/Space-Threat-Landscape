@@ -4,7 +4,7 @@ This repository provides the dataset and an accompanying interactive dashboard u
 
 ## Dataset
 
-The dataset is provided in an Excel format (`ENISA_Space_Threat_Dataset.xlsx`) and expands upon the control appendix of the ENISA report. It offers three distinct views:
+The dataset is provided in an Excel format (`Control Framework.xlsx`) and expands upon the control appendix of the ENISA report. It offers three distinct views:
 
 * **Control View:** Detailed information about each security control.
 * **Threat View:** Mapping of controls to specific threat categories.
