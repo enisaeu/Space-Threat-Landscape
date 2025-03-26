@@ -1,6 +1,6 @@
 # ENISA Space Threat Landscape Dataset and Dashboard
 
-This repository provides the dataset and an interactive dashboard accompanying the European Union Agency for Cybersecurity (ENISA) *Space Threat Landscape* report (ISBN: 978-92-9204-696-5, DOI: 10.2824/8841206), publicly released on 26 March 2025. These resources are designed to assist cybersecurity experts within the commercial space sector in identifying and mitigating potential threats and are provided as is.
+This repository provides the dataset and an interactive dashboard accompanying the European Union Agency for Cybersecurity (ENISA) *Space Threat Landscape* report (ISBN: 978-92-9204-696-5, DOI: 10.2824/8841206), publicly released on 26 March 2025 ([https://www.enisa.europa.eu/publications/enisa-space-threat-landscape-2025](https://www.enisa.europa.eu/publications/enisa-space-threat-landscape-2025)). These resources are designed to assist cybersecurity experts within the commercial space sector in identifying and mitigating potential threats and are provided as is.
 
 The listed security controls were derived from a comprehensive review of EU regulations, international cybersecurity frameworks, space sector-specific cybersecurity profiles, best practice guides, countermeasure taxonomies, and national guidelines available during the drafting period. Specifically, the following sources were consulted:
 
